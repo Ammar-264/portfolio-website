@@ -1,0 +1,22 @@
+/* #head{
+  transform: rotate(20deg);
+  transform-origin: center;
+  transform-box: fill-box;
+  animation: headRotate 1s  infinite linear;
+  animation-direction: alternate;
+  
+}
+
+@keyframes headRotate {
+    0%{
+        transform: rotate(0deg);
+    }
+    10%{
+        
+        transform: rotate(20deg);
+    }
+    100%{
+        
+        transform: rotate(0deg);
+    }
+} */

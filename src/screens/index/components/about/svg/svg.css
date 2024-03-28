@@ -1,0 +1,16 @@
+#text2 {
+    /* overflow: hidden; */
+    /* white-space: nowrap; */
+    width: 20px !important;
+    background-color: red;
+    /* animation: typing;
+    animation-duration: 1.5s;
+    animation-timing-function: steps(30, end);
+    animation-fill-mode: forwards; */
+    
+  }
+  
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
